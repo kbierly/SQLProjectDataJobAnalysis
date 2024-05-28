@@ -1,0 +1,152 @@
+[
+  {
+    "skills": "sql",
+    "weighted_score": "0.5650",
+    "demand_count": "3083",
+    "avg_salary_per_skill": "96435"
+  },
+  {
+    "skills": "excel",
+    "weighted_score": "0.3982",
+    "demand_count": "2143",
+    "avg_salary_per_skill": "86419"
+  },
+  {
+    "skills": "python",
+    "weighted_score": "0.3706",
+    "demand_count": "1840",
+    "avg_salary_per_skill": "101512"
+  },
+  {
+    "skills": "tableau",
+    "weighted_score": "0.3362",
+    "demand_count": "1659",
+    "avg_salary_per_skill": "97978"
+  },
+  {
+    "skills": "r",
+    "weighted_score": "0.2422",
+    "demand_count": "1073",
+    "avg_salary_per_skill": "98708"
+  },
+  {
+    "skills": "power bi",
+    "weighted_score": "0.2283",
+    "demand_count": "1044",
+    "avg_salary_per_skill": "92324"
+  },
+  {
+    "skills": "sas",
+    "weighted_score": "0.1421",
+    "demand_count": "500",
+    "avg_salary_per_skill": "93707"
+  },
+  {
+    "skills": "powerpoint",
+    "weighted_score": "0.1382",
+    "demand_count": "524",
+    "avg_salary_per_skill": "88316"
+  },
+  {
+    "skills": "word",
+    "weighted_score": "0.1310",
+    "demand_count": "527",
+    "avg_salary_per_skill": "82941"
+  },
+  {
+    "skills": "azure",
+    "weighted_score": "0.1295",
+    "demand_count": "319",
+    "avg_salary_per_skill": "105400"
+  },
+  {
+    "skills": "aws",
+    "weighted_score": "0.1264",
+    "demand_count": "291",
+    "avg_salary_per_skill": "106440"
+  },
+  {
+    "skills": "snowflake",
+    "weighted_score": "0.1257",
+    "demand_count": "241",
+    "avg_salary_per_skill": "111578"
+  },
+  {
+    "skills": "oracle",
+    "weighted_score": "0.1252",
+    "demand_count": "332",
+    "avg_salary_per_skill": "100964"
+  },
+  {
+    "skills": "kafka",
+    "weighted_score": "0.1194",
+    "demand_count": "40",
+    "avg_salary_per_skill": "129999"
+  },
+  {
+    "skills": "sql server",
+    "weighted_score": "0.1190",
+    "demand_count": "336",
+    "avg_salary_per_skill": "96191"
+  },
+  {
+    "skills": "spark",
+    "weighted_score": "0.1189",
+    "demand_count": "187",
+    "avg_salary_per_skill": "113002"
+  },
+  {
+    "skills": "looker",
+    "weighted_score": "0.1177",
+    "demand_count": "260",
+    "avg_salary_per_skill": "103855"
+  },
+  {
+    "skills": "go",
+    "weighted_score": "0.1128",
+    "demand_count": "288",
+    "avg_salary_per_skill": "97267"
+  },
+  {
+    "skills": "flow",
+    "weighted_score": "0.1111",
+    "demand_count": "271",
+    "avg_salary_per_skill": "98020"
+  },
+  {
+    "skills": "hadoop",
+    "weighted_score": "0.1083",
+    "demand_count": "140",
+    "avg_salary_per_skill": "110888"
+  },
+  {
+    "skills": "airflow",
+    "weighted_score": "0.1050",
+    "demand_count": "71",
+    "avg_salary_per_skill": "116387"
+  },
+  {
+    "skills": "databricks",
+    "weighted_score": "0.1050",
+    "demand_count": "102",
+    "avg_salary_per_skill": "112881"
+  },
+  {
+    "skills": "jira",
+    "weighted_score": "0.1049",
+    "demand_count": "145",
+    "avg_salary_per_skill": "107931"
+  },
+  {
+    "skills": "tensorflow",
+    "weighted_score": "0.1034",
+    "demand_count": "24",
+    "avg_salary_per_skill": "120647"
+  },
+  {
+    "skills": "scala",
+    "weighted_score": "0.1017",
+    "demand_count": "59",
+    "avg_salary_per_skill": "115480"
+  }
+]

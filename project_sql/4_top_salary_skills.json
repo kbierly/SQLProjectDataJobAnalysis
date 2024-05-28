@@ -1,0 +1,102 @@
+[
+  {
+    "skills": "svn",
+    "avg_salary_per_skill": "400000"
+  },
+  {
+    "skills": "solidity",
+    "avg_salary_per_skill": "179000"
+  },
+  {
+    "skills": "couchbase",
+    "avg_salary_per_skill": "160515"
+  },
+  {
+    "skills": "datarobot",
+    "avg_salary_per_skill": "155486"
+  },
+  {
+    "skills": "golang",
+    "avg_salary_per_skill": "155000"
+  },
+  {
+    "skills": "mxnet",
+    "avg_salary_per_skill": "149000"
+  },
+  {
+    "skills": "dplyr",
+    "avg_salary_per_skill": "147633"
+  },
+  {
+    "skills": "vmware",
+    "avg_salary_per_skill": "147500"
+  },
+  {
+    "skills": "terraform",
+    "avg_salary_per_skill": "146734"
+  },
+  {
+    "skills": "twilio",
+    "avg_salary_per_skill": "138500"
+  },
+  {
+    "skills": "gitlab",
+    "avg_salary_per_skill": "134126"
+  },
+  {
+    "skills": "kafka",
+    "avg_salary_per_skill": "129999"
+  },
+  {
+    "skills": "puppet",
+    "avg_salary_per_skill": "129820"
+  },
+  {
+    "skills": "keras",
+    "avg_salary_per_skill": "127013"
+  },
+  {
+    "skills": "pytorch",
+    "avg_salary_per_skill": "125226"
+  },
+  {
+    "skills": "perl",
+    "avg_salary_per_skill": "124686"
+  },
+  {
+    "skills": "ansible",
+    "avg_salary_per_skill": "124370"
+  },
+  {
+    "skills": "hugging face",
+    "avg_salary_per_skill": "123950"
+  },
+  {
+    "skills": "tensorflow",
+    "avg_salary_per_skill": "120647"
+  },
+  {
+    "skills": "cassandra",
+    "avg_salary_per_skill": "118407"
+  },
+  {
+    "skills": "notion",
+    "avg_salary_per_skill": "118092"
+  },
+  {
+    "skills": "atlassian",
+    "avg_salary_per_skill": "117966"
+  },
+  {
+    "skills": "bitbucket",
+    "avg_salary_per_skill": "116712"
+  },
+  {
+    "skills": "airflow",
+    "avg_salary_per_skill": "116387"
+  },
+  {
+    "skills": "scala",
+    "avg_salary_per_skill": "115480"
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "avg_salary_per_skill": "208172.250000000000",
+    "number_of_appearances": "2",
+    "skills": "pyspark"
+  },
+  {
+    "avg_salary_per_skill": "195500.000000000000",
+    "number_of_appearances": "2",
+    "skills": "gitlab"
+  },
+  {
+    "avg_salary_per_skill": "190414.750000000000",
+    "number_of_appearances": "2",
+    "skills": "jupyter"
+  },
+  {
+    "avg_salary_per_skill": "190250.000000000000",
+    "number_of_appearances": "2",
+    "skills": "crystal"
+  },
+  {
+    "avg_salary_per_skill": "189309.000000000000",
+    "number_of_appearances": "1",
+    "skills": "jenkins"
+  },
+  {
+    "avg_salary_per_skill": "189309.000000000000",
+    "number_of_appearances": "1",
+    "skills": "sap"
+  },
+  {
+    "avg_salary_per_skill": "189154.500000000000",
+    "number_of_appearances": "2",
+    "skills": "atlassian"
+  },
+  {
+    "avg_salary_per_skill": "189154.500000000000",
+    "number_of_appearances": "2",
+    "skills": "bitbucket"
+  },
+  {
+    "avg_salary_per_skill": "181138.250000000000",
+    "number_of_appearances": "6",
+    "skills": "pandas"
+  },
+  {
+    "avg_salary_per_skill": "173666.666666666667",
+    "number_of_appearances": "3",
+    "skills": "numpy"
+  },
+  {
+    "avg_salary_per_skill": "166151.785714285714",
+    "number_of_appearances": "7",
+    "skills": "oracle"
+  },
+  {
+    "avg_salary_per_skill": "165961.500000000000",
+    "number_of_appearances": "9",
+    "skills": "azure"
+  },
+  {
+    "avg_salary_per_skill": "165594.333333333333",
+    "number_of_appearances": "6",
+    "skills": "databricks"
+  },
+  {
+    "avg_salary_per_skill": "165000.000000000000",
+    "number_of_appearances": "1",
+    "skills": "matlab"
+  },
+  {
+    "avg_salary_per_skill": "162757.500000000000",
+    "number_of_appearances": "2",
+    "skills": "mysql"
+  },
+  {
+    "avg_salary_per_skill": "160515.000000000000",
+    "number_of_appearances": "1",
+    "skills": "watson"
+  },
+  {
+    "avg_salary_per_skill": "160515.000000000000",
+    "number_of_appearances": "1",
+    "skills": "cognos"
+  },
+  {
+    "avg_salary_per_skill": "160515.000000000000",
+    "number_of_appearances": "1",
+    "skills": "couchbase"
+  },
+  {
+    "avg_salary_per_skill": "160515.000000000000",
+    "number_of_appearances": "1",
+    "skills": "linux"
+  },
+  {
+    "avg_salary_per_skill": "159500.000000000000",
+    "number_of_appearances": "2",
+    "skills": "git"
+  },
+  {
+    "avg_salary_per_skill": "159332.375000000000",
+    "number_of_appearances": "4",
+    "skills": "powerpoint"
+  },
+  {
+    "avg_salary_per_skill": "155485.500000000000",
+    "number_of_appearances": "1",
+    "skills": "datarobot"
+  },
+  {
+    "avg_salary_per_skill": "155202.250000000000",
+    "number_of_appearances": "4",
+    "skills": "confluence"
+  },
+  {
+    "avg_salary_per_skill": "155115.166666666667",
+    "number_of_appearances": "9",
+    "skills": "hadoop"
+  },
+  {
+    "avg_salary_per_skill": "154415.350000000000",
+    "number_of_appearances": "10",
+    "skills": "aws"
+  },
+  {
+    "avg_salary_per_skill": "153800.000000000000",
+    "number_of_appearances": "5",
+    "skills": "java"
+  },
+  {
+    "avg_salary_per_skill": "153750.000000000000",
+    "number_of_appearances": "2",
+    "skills": "swift"
+  },
+  {
+    "avg_salary_per_skill": "151520.136363636364",
+    "number_of_appearances": "11",
+    "skills": "go"
+  },
+  {
+    "avg_salary_per_skill": "151505.000000000000",
+    "number_of_appearances": "3",
+    "skills": "scala"
+  },
+  {
+    "avg_salary_per_skill": "150660.642857142857",
+    "number_of_appearances": "14",
+    "skills": "snowflake"
+  },
+  {
+    "avg_salary_per_skill": "150161.800000000000",
+    "number_of_appearances": "5",
+    "skills": "jira"
+  },
+  {
+    "avg_salary_per_skill": "149858.458333333333",
+    "number_of_appearances": "24",
+    "skills": "excel"
+  },
+  {
+    "avg_salary_per_skill": "148810.756097560976",
+    "number_of_appearances": "41",
+    "skills": "tableau"
+  },
+  {
+    "avg_salary_per_skill": "148747.424242424242",
+    "number_of_appearances": "33",
+    "skills": "r"
+  },
+  {
+    "avg_salary_per_skill": "148238.500000000000",
+    "number_of_appearances": "1",
+    "skills": "db2"
+  },
+  {
+    "avg_salary_per_skill": "148238.500000000000",
+    "number_of_appearances": "1",
+    "skills": "microstrategy"
+  },
+  {
+    "avg_salary_per_skill": "148181.048076923077",
+    "number_of_appearances": "52",
+    "skills": "python"
+  },
+  {
+    "avg_salary_per_skill": "147285.000000000000",
+    "number_of_appearances": "1",
+    "skills": "t-sql"
+  },
+  {
+    "avg_salary_per_skill": "146894.625000000000",
+    "number_of_appearances": "12",
+    "skills": "looker"
+  },
+  {
+    "avg_salary_per_skill": "146333.333333333333",
+    "number_of_appearances": "3",
+    "skills": "c++"
+  },
+  {
+    "avg_salary_per_skill": "145115.775000000000",
+    "number_of_appearances": "20",
+    "skills": "power bi"
+  },
+  {
+    "avg_salary_per_skill": "145013.973333333333",
+    "number_of_appearances": "75",
+    "skills": "sql"
+  },
+  {
+    "avg_salary_per_skill": "145000.000000000000",
+    "number_of_appearances": "1",
+    "skills": "elasticsearch"
+  },
+  {
+    "avg_salary_per_skill": "145000.000000000000",
+    "number_of_appearances": "1",
+    "skills": "golang"
+  },
+  {
+    "avg_salary_per_skill": "145000.000000000000",
+    "number_of_appearances": "1",
+    "skills": "scikit-learn"
+  },
+  {
+    "avg_salary_per_skill": "144600.000000000000",
+    "number_of_appearances": "3",
+    "skills": "ssis"
+  },
+  {
+    "avg_salary_per_skill": "143000.000000000000",
+    "number_of_appearances": "2",
+    "skills": "ssrs"
+  },
+  {
+    "avg_salary_per_skill": "142975.700000000000",
+    "number_of_appearances": "5",
+    "skills": "nosql"
+  },
+  {
+    "avg_salary_per_skill": "142833.333333333333",
+    "number_of_appearances": "6",
+    "skills": "flow"
+  },
+  {
+    "avg_salary_per_skill": "142757.500000000000",
+    "number_of_appearances": "2",
+    "skills": "postgresql"
+  },
+  {
+    "avg_salary_per_skill": "142500.000000000000",
+    "number_of_appearances": "2",
+    "skills": "qlik"
+  },
+  {
+    "avg_salary_per_skill": "141875.000000000000",
+    "number_of_appearances": "4",
+    "skills": "spark"
+  },
+  {
+    "avg_salary_per_skill": "141820.000000000000",
+    "number_of_appearances": "2",
+    "skills": "javascript"
+  },
+  {
+    "avg_salary_per_skill": "141378.750000000000",
+    "number_of_appearances": "4",
+    "skills": "airflow"
+  },
+  {
+    "avg_salary_per_skill": "138610.750000000000",
+    "number_of_appearances": "2",
+    "skills": "alteryx"
+  },
+  {
+    "avg_salary_per_skill": "138207.535714285714",
+    "number_of_appearances": "28",
+    "skills": "sas"
+  },
+  {
+    "avg_salary_per_skill": "138103.000000000000",
+    "number_of_appearances": "5",
+    "skills": "redshift"
+  },
+  {
+    "avg_salary_per_skill": "137800.000000000000",
+    "number_of_appearances": "5",
+    "skills": "sql server"
+  },
+  {
+    "avg_salary_per_skill": "136838.333333333333",
+    "number_of_appearances": "3",
+    "skills": "visio"
+  },
+  {
+    "avg_salary_per_skill": "135786.625000000000",
+    "number_of_appearances": "4",
+    "skills": "vba"
+  },
+  {
+    "avg_salary_per_skill": "134000.000000000000",
+    "number_of_appearances": "2",
+    "skills": "dax"
+  },
+  {
+    "avg_salary_per_skill": "132500.000000000000",
+    "number_of_appearances": "2",
+    "skills": "kubernetes"
+  },
+  {
+    "avg_salary_per_skill": "132500.000000000000",
+    "number_of_appearances": "2",
+    "skills": "gcp"
+  },
+  {
+    "avg_salary_per_skill": "132285.000000000000",
+    "number_of_appearances": "2",
+    "skills": "phoenix"
+  },
+  {
+    "avg_salary_per_skill": "131083.333333333333",
+    "number_of_appearances": "6",
+    "skills": "sheets"
+  },
+  {
+    "avg_salary_per_skill": "131000.000000000000",
+    "number_of_appearances": "2",
+    "skills": "c"
+  },
+  {
+    "avg_salary_per_skill": "130000.000000000000",
+    "number_of_appearances": "1",
+    "skills": "unix"
+  },
+  {
+    "avg_salary_per_skill": "130000.000000000000",
+    "number_of_appearances": "1",
+    "skills": "github"
+  },
+  {
+    "avg_salary_per_skill": "129922.625000000000",
+    "number_of_appearances": "4",
+    "skills": "spss"
+  },
+  {
+    "avg_salary_per_skill": "128428.571428571429",
+    "number_of_appearances": "7",
+    "skills": "bigquery"
+  },
+  {
+    "avg_salary_per_skill": "127333.333333333333",
+    "number_of_appearances": "3",
+    "skills": "sharepoint"
+  },
+  {
+    "avg_salary_per_skill": "127000.000000000000",
+    "number_of_appearances": "1",
+    "skills": "twilio"
+  },
+  {
+    "avg_salary_per_skill": "125000.000000000000",
+    "number_of_appearances": "1",
+    "skills": "notion"
+  },
+  {
+    "avg_salary_per_skill": "125000.000000000000",
+    "number_of_appearances": "1",
+    "skills": "shell"
+  },
+  {
+    "avg_salary_per_skill": "125000.000000000000",
+    "number_of_appearances": "1",
+    "skills": "bash"
+  },
+  {
+    "avg_salary_per_skill": "124500.000000000000",
+    "number_of_appearances": "1",
+    "skills": "microsoft teams"
+  },
+  {
+    "avg_salary_per_skill": "123500.000000000000",
+    "number_of_appearances": "2",
+    "skills": "outlook"
+  },
+  {
+    "avg_salary_per_skill": "122250.000000000000",
+    "number_of_appearances": "2",
+    "skills": "word"
+  }
+]
