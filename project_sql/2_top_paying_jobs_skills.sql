@@ -1,5 +1,5 @@
 /* 
-Question: What are the top-paying data analyst jobs?
+Question: What are the skills associated with these top-paying data analyst jobs?
 - Identify the top 100 highest-paying Data Analyst roles.
 - Identify which skills are most in-demand and what the average salary associated with each skill is for each of these high-paying jobs.
 */
