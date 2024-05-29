@@ -208,7 +208,7 @@ To better address this spectrum of varying wants for the job-seeker, I built a w
 
 I created an interactive application within Mathematica to demonstrate these results, then I embedded this tool into JavaScript with Wolfram Cloud's embed tool. The application can be found [here](https://jsfiddle.net/TroddCheeseburger/pqv9gwn5/). You can toggle labels for each of the points and you can adjust the slider to see what happens when average salary per skill and demand count are weighted differently. Adjusting these two variables affects the weighted score (shown on the z-axis and also in color for extra clarity). E.g., if you have the slider weighted entirely toward salary and you don't care about demand count, then kafka becomes the highest weighted skill (most important), but if you also value demand count and move the slider toward the middle, then SQL becomes the highest weighted skill. You can see how this affects all the other skills too.
 
-
+https://github.com/kbierly/SQL_Project_Data_Job_Analysis/assets/163986224/78178b25-0313-4fbb-9a80-ae4a837b3bb1
 
 My SQL query is quite complicated, but I wanted to practice using CTEs. I order by "Weighted Score" descending:
 
