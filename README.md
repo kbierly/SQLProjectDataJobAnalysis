@@ -300,7 +300,7 @@ LIMIT
     25;
 ```
 
-### Example heading for top 5 results by weighted score (x=.5, y=.5)
+#### Example heading for top 5 results by weighted score (x=.5, y=.5)
 
 | Skill   | Weighted Score | Demand Count | Average Salary per Skill ($) |
 |---------|----------------|--------------|------------------------------|
