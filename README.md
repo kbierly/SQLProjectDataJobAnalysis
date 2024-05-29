@@ -31,6 +31,8 @@ For this analysis fo the data analyst job market, I used several key tools:
 
 - **Git & GitHub**: Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
 
+- **Mathematica**: I'm most comfortable using Wolfram language; it's something I've used extensively during my time working as a mathematics research assistant in college. It's not as good as R or Python for large datasets, but it's perfect for almost anything math related and its language is very simple. For this project I use it to build an interactive 3d visualization. 
+
 # The Analysis
 
 Each query for this project aimed at investigating specific aspects of the data analyst job market. Here's how I approached each question:
@@ -202,9 +204,11 @@ The short and unsatisfactory answer is that it depends. It depends on what that 
 
 If the hypothetical data analyst answered yes to the first question and no to the second question, then they would be more interested in jobs associated with high salaries and care less about how often a skill is mentioned across job descriptions, and vice-versa if they answered no to the first question and yes to the second. 
 
-To better address this spectrum of varying wants for the job-seeker, I built a weighted score that is dependent on an individual's rankings of the importance of skill frequency and that of skill value. This weighted score operates under the basic economic belief that the ideal job-seeker is both in-demand and of high value. I created this weighted score using normalized values for both average salary per skill and skill demand count. For me personally, a higher salary and flexibility in the number of job postings relevant to my skill set are equally important, so I gave "Demand Count" and "Average Salary Per Skill" an equal weight of .5. I created an interactive tool within Mathematica to demonstrate these results, then I embedded this tool into JavaScript which can be found [here](https://jsfiddle.net/TroddCheeseburger/pqv9gwn5/).
+To better address this spectrum of varying wants for the job-seeker, I built a weighted score that is dependent on an individual's rankings of the importance of skill frequency and that of skill value. This weighted score operates under the basic economic belief that the ideal job-seeker is both in-demand and of high value. I created this weighted score using normalized values for both average salary per skill and skill demand count. For me personally, a higher salary and flexibility in the number of job postings relevant to my skill set are equally important, so I gave "Demand Count" and "Average Salary Per Skill" an equal weight of .5. 
 
-Include video here.
+I created an interactive application within Mathematica to demonstrate these results, then I embedded this tool into JavaScript with Wolfram Cloud's embed tool. The application can be found [here](https://jsfiddle.net/TroddCheeseburger/pqv9gwn5/). You can toggle labels for each of the points and you can adjust the slider to see what happens when average salary per skill and demand count are weighted differently. Adjusting these two variables affects the weighted score (shown on the z-axis and also in color for extra clarity). E.g., if you have the slider weighted entirely toward salary and you don't care about demand count, then kafka becomes the highest weighted skill (most important), but if you also value demand count and move the slider toward the middle, then SQL becomes the highest weighted skill. You can see how this affects all the other skills too.
+
+
 
 My SQL query is quite complicated, but I wanted to practice using CTEs. I order by "Weighted Score" descending:
 
