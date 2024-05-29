@@ -300,6 +300,16 @@ LIMIT
     25;
 ```
 
+### Example heading for top 5 results by weighted score (x=.5, y=.5)
+
+| Skill   | Weighted Score | Demand Count | Average Salary per Skill ($) |
+|---------|----------------|--------------|------------------------------|
+| SQL     | 0.5650         | 3083         | 96,435                       |
+| Excel   | 0.3982         | 2143         | 86,419                       |
+| Python  | 0.3706         | 1840         | 101,512                      |
+| Tableau | 0.3362         | 1659         | 97,978                       |
+| R       | 0.2422         | 1073         | 98,708                       |
+
 
 # Conclusion
 
