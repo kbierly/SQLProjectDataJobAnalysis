@@ -1,9 +1,10 @@
 /*Question: What are the highest paying Data Analyst skills?
-- Identify the top 25 highest-paying Data Analyst skills that are available remotely.*/
+- Identify the top 15 highest-paying Data Analyst skills.*/
 
 SELECT 
     skills,
-    ROUND(AVG(salary_year_avg), 0) AS avg_salary_per_skill
+    ROUND(AVG(salary_year_avg), 0) AS avg_salary_per_skill,
+    COUNT(*) AS number_of_appearances
 FROM 
     job_postings_fact
 INNER JOIN 
@@ -19,17 +20,15 @@ WHERE
     salary_year_avg IS NOT NULL
 GROUP BY
     skills
+HAVING
+    COUNT(*) >5
 ORDER BY
     avg_salary_per_skill DESC
-LIMIT 25
+LIMIT 15
 
 /*
-High Value of Legacy Technologies
-Based on the data provided for the top 25 highest paying skills for data analysts, it's clear that niche and emerging technologies command significant salaries. For instance, svn (Subversion), a version control system, tops the list with an average salary of $400,000, which is notably higher than the others. This suggests that skills in older yet critical technologies might still hold substantial value, potentially due to their specialized usage in legacy systems that require expertise not commonly found in the current job market.
+Analysis
+The analysis of the top 15 highest-paying skills for Data Analysts reveals some interesting trends. GitLab, a popular DevOps platform, ranks highest with an average annual salary of $134,126 and 7 job appearances. This indicates that while the demand for GitLab skills might not be widespread, it commands a significant salary premium where it is required. Other high-paying skills like Kafka and PyTorch also highlight the importance of specialized knowledge in modern data engineering and machine learning frameworks. These technologies are critical for handling large-scale data processing and developing advanced machine learning models, which likely explains their high remuneration.
 
-Premium on Emerging Technologies
-In addition to legacy systems, several modern and emerging technologies also feature prominently among the top-paying skills. Skills like solidity, used for smart contracts on blockchain platforms, and couchbase, a NoSQL database, highlight the premium placed on knowledge of cutting-edge technologies. This trend extends to other contemporary tools like terraform for infrastructure as code, kafka for real-time data streaming, and kubernetes for container orchestration, indicating that proficiency in these areas is highly valued in the current data analyst job market.
-
-Demand for AI and Machine Learning Expertise
-Furthermore, the list reveals a significant demand for skills related to artificial intelligence and machine learning, such as keras, pytorch, tensorflow, and hugging face. These tools are essential for building and deploying machine learning models, underlining the importance of AI competencies in securing high-paying roles. This trend underscores the shifting landscape of data analysis, where traditional data handling and analysis are increasingly augmented by advanced AI and machine learning capabilities, driving up the salaries for professionals skilled in these areas.
+On the other end of the spectrum, skills like MongoDB, PySpark, and Confluence, while still among the top 15 highest-paying, appear more frequently in job postings. This suggests that while these skills are highly valued, they are also more common and thus may offer slightly lower average salaries compared to more niche skills like GitLab and Notion. The scatter plot below visualizes the relationship between average salary and the number of job appearances for each skill, providing a clearer picture of how demand and remuneration interact for Data Analyst positions.
 */
