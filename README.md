@@ -25,7 +25,7 @@ For this analysis of the data analyst job market, I used several key tools:
 
 - **SQL**: My primary tool, which allowed me to query my job market database and unearth critical insights.
 
-- **PostgreSQL**: My chosen database management system; it's open-source and ideal for handling job posting data.
+- **PostgreSQL**: My chosen database management system; it's open-source and one of the most flexible relational database systems.
 
 - **Python**: I use the pandas and matplotlib packages to build some visualizations for my data.
 
